@@ -7,5 +7,6 @@ public class StringPractice {
         System.out.println(str);
         String str2 = "Java is great";
         System.out.println(str2);
+        private String name;
     }
 }
